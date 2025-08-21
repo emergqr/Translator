@@ -1,0 +1,1 @@
+# Modelo usado pra traducir a los distintos idiomas 
